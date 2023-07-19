@@ -1,2 +1,3 @@
-# project-1-JAVA-
+# project-2
+
 Consumer Loan Assistant Project
